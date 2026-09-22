@@ -1,0 +1,75 @@
+DAY 04 — BLOOD RELATIONS
+
+BASIC RELATIONS
+
+Father's father = Grandfather
+Father's mother = Grandmother
+
+Mother's father = Maternal Grandfather
+Mother's mother = Maternal Grandmother
+
+Father's brother = Uncle
+Mother's brother = Uncle
+
+Father's sister = Aunt
+Mother's sister = Aunt
+
+Brother's son = Nephew
+Brother's daughter = Niece
+
+Sister's son = Nephew
+Sister's daughter = Niece
+
+
+GENDER
+
+Father = Male
+Brother = Male
+Son = Male
+Uncle = Male
+Husband = Male
+
+Mother = Female
+Sister = Female
+Daughter = Female
+Aunt = Female
+Wife = Female
+
+
+GENERATION LEVEL
+
++2 = Grandparents
++1 = Parents / Uncle / Aunt
+ 0 = Self / Brother / Sister / Cousin
+-1 = Children
+-2 = Grandchildren
+
+
+EXAMPLE
+
+A is the brother of B.
+B is the mother of C.
+
+A's relation to C?
+
+B = Mother of C
+A = Brother of B
+
+Therefore:
+A = Uncle of C
+
+
+QUICK METHOD
+
+1. Identify the gender.
+2. Identify the generation.
+3. Start from the person mentioned.
+4. Draw a small family tree.
+5. Follow the relationship step by step.
+6. Check the final relationship.
+
+
+IMPORTANT
+
+Do not solve long blood-relation questions mentally.
+Draw a simple family tree.

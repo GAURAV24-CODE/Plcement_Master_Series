@@ -1,0 +1,77 @@
+DAY 05 — DIRECTIONS & RANKING
+
+DIRECTIONS
+
+Direction = Finding the position or movement of a person/object.
+
+
+MAIN DIRECTIONS
+
+        North
+          ↑
+West ←         → East
+          ↓
+        South
+
+
+DIAGONALS
+
+North-East = NE
+North-West = NW
+South-East = SE
+South-West = SW
+
+
+EXAMPLE
+
+A walks 5 km North.
+Then 3 km East.
+
+Final direction from starting point = North-East.
+
+
+OPPOSITE DIRECTIONS
+
+North ↔ South
+East ↔ West
+NE ↔ SW
+NW ↔ SE
+
+
+RANKING
+
+Ranking = Finding a person's position in a line or group.
+
+
+IMPORTANT FORMULAS
+
+Rank from Top + Rank from Bottom - 1
+= Total number of people
+
+
+Example:
+
+Rank from top = 8
+Rank from bottom = 13
+
+Total = 8 + 13 - 1
+     = 20
+
+
+FIND OPPOSITE RANK
+
+Total - Given Rank + 1
+
+
+QUICK METHOD
+
+1. Draw directions.
+2. Mark starting point.
+3. Follow every movement.
+4. For ranking, identify Top/Bottom or Left/Right.
+5. Use the formula.
+
+
+IMPORTANT
+
+Always draw a small diagram for direction questions.

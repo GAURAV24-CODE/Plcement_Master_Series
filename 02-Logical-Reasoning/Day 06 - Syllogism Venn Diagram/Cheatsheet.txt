@@ -1,0 +1,66 @@
+DAY 06 — SYLLOGISM & VENN DIAGRAM
+
+SYLLOGISM
+
+Syllogism = Finding whether a conclusion logically follows from given statements.
+
+
+COMMON WORDS
+
+All = Complete group
+Some = At least one
+No = Zero
+
+
+EXAMPLE
+
+Statements:
+All cats are animals.
+All animals are living beings.
+
+Conclusion:
+All cats are living beings.
+
+Answer = Follows
+
+
+VENN DIAGRAM
+
+Use circles to represent groups.
+
+
+EXAMPLE
+
+All A are B
+
+       B
+   __________
+  |    A     |
+  |   _____  |
+  |  |     | |
+  |__|_____|_|
+
+
+"No A is B"
+
+A and B do not overlap.
+
+
+"Some A are B"
+
+A and B partially overlap.
+
+
+QUICK METHOD
+
+1. Read statements carefully.
+2. Draw circles.
+3. Check the conclusion.
+4. Never use outside knowledge.
+5. Use only the given statements.
+
+
+IMPORTANT
+
+"All A are B" does NOT mean
+"All B are A".

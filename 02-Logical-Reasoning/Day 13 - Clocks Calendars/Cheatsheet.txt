@@ -1,0 +1,74 @@
+DAY 13 — CLOCKS & CALENDARS
+
+CLOCKS
+
+Clock = Questions based on time, angles and positions of clock hands.
+
+
+IMPORTANT
+
+Minute hand moves faster than hour hand.
+
+Minute hand:
+6° per minute
+
+Hour hand:
+0.5° per minute
+
+
+ANGLE FORMULA
+
+Angle = |30H - 5.5M|
+
+H = Hour
+M = Minutes
+
+
+EXAMPLE
+
+At 3:00:
+
+Angle = |30×3 - 5.5×0|
+      = 90°
+
+Answer = 90°
+
+
+CALENDARS
+
+Calendar = Questions based on days, dates and leap years.
+
+
+IMPORTANT
+
+Normal year = 365 days
+= 52 weeks + 1 day
+
+Leap year = 366 days
+= 52 weeks + 2 days
+
+
+LEAP YEAR RULE
+
+Divisible by 4 = Usually leap year.
+
+Century year must be divisible by 400.
+
+Example:
+2000 = Leap year
+1900 = Not leap year
+
+
+QUICK METHOD
+
+For clocks:
+Use angle formula.
+
+For calendars:
+Check leap year + odd days.
+
+
+IMPORTANT
+
+Always check whether the year is
+normal or leap year.

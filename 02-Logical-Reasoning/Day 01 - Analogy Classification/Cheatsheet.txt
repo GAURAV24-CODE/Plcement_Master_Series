@@ -1,0 +1,67 @@
+DAY 01 — ANALOGY & CLASSIFICATION
+
+ANALOGY
+
+Analogy = Finding the same relationship between two pairs.
+
+FORMAT
+
+A : B :: C : ?
+
+EXAMPLE
+
+Doctor : Hospital :: Teacher : ?
+
+Doctor works in Hospital
+Teacher works in School
+
+Answer = School
+
+
+NUMBER ANALOGY
+
+2 : 4 :: 5 : ?
+
+2 × 2 = 4
+5 × 2 = 10
+
+Answer = 10
+
+
+CLASSIFICATION
+
+Classification = Finding the odd item from a group.
+
+EXAMPLE
+
+Apple, Mango, Banana, Carrot
+
+Apple = Fruit
+Mango = Fruit
+Banana = Fruit
+Carrot = Vegetable
+
+Answer = Carrot
+
+
+COMMON TYPES
+
+- Word relationship
+- Number relationship
+- Alphabet relationship
+- Object relationship
+- Odd one out
+
+
+QUICK METHOD
+
+1. Find the relationship.
+2. Apply the same rule.
+3. For classification, find the common property.
+4. Select the odd item.
+
+
+IMPORTANT
+
+Do not guess the answer.
+Find the exact common relationship first.

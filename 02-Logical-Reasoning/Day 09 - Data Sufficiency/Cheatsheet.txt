@@ -1,0 +1,52 @@
+DAY 09 — DATA SUFFICIENCY
+
+DATA SUFFICIENCY
+
+Data Sufficiency = Checking whether the given information is enough to answer a question.
+
+
+TYPICAL FORMAT
+
+Question:
+What is the value of X?
+
+Statement I
+Statement II
+
+
+POSSIBILITIES
+
+1. Statement I alone is sufficient.
+2. Statement II alone is sufficient.
+3. Both together are sufficient.
+4. Either alone is sufficient.
+5. Even both are insufficient.
+
+
+EXAMPLE
+
+What is X?
+
+I. X + 5 = 10
+II. X is a positive number
+
+Statement I alone:
+X = 5
+
+Therefore I is sufficient.
+
+
+QUICK METHOD
+
+1. Check Statement I alone.
+2. Check Statement II alone.
+3. Check both together.
+4. Do not solve more than necessary.
+
+
+IMPORTANT
+
+Data Sufficiency asks:
+"Is the information enough?"
+
+It does not always ask you to find the answer.

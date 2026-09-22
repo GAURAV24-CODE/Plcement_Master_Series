@@ -1,0 +1,47 @@
+DAY 10 — CAUSE & EFFECT
+
+CAUSE & EFFECT
+
+Cause = Reason why something happens.
+Effect = Result produced by something.
+
+
+EXAMPLE
+
+Heavy rain occurred.
+Roads became flooded.
+
+Cause = Heavy rain
+Effect = Flooding
+
+
+HOW TO IDENTIFY
+
+Cause usually happens BEFORE the effect.
+
+
+EXAMPLE
+
+Statement I:
+There was heavy rainfall.
+
+Statement II:
+Several roads were flooded.
+
+Possible relationship:
+Rainfall → Flooding
+
+
+QUICK METHOD
+
+1. Identify the event.
+2. Ask "Why did it happen?"
+3. Identify the reason = Cause.
+4. Identify the result = Effect.
+5. Check whether the relationship is logical.
+
+
+IMPORTANT
+
+Do not assume two events are related
+just because they happened together.

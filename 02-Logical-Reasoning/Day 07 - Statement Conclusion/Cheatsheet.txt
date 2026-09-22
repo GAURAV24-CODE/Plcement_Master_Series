@@ -1,0 +1,45 @@
+DAY 07 — STATEMENT & CONCLUSION
+
+STATEMENT
+
+Statement = A given fact or situation.
+
+CONCLUSION
+
+Conclusion = A result that logically follows from the statement.
+
+
+EXAMPLE
+
+Statement:
+All employees must carry an ID card.
+
+Conclusion:
+Employees should carry ID cards.
+
+Answer = Follows
+
+
+IMPORTANT RULE
+
+Use ONLY the information given in the statement.
+
+Do not use:
+- Personal opinion
+- Outside knowledge
+- Assumptions
+
+
+QUICK METHOD
+
+1. Read the statement.
+2. Read the conclusion.
+3. Ask: "Can this conclusion be directly derived?"
+4. If yes = Follows.
+5. If not = Does not follow.
+
+
+IMPORTANT
+
+A conclusion must have logical support
+from the statement.

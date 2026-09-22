@@ -1,0 +1,84 @@
+DAY 02 — NUMBER SERIES & ALPHABET SERIES
+
+NUMBER SERIES
+
+Number Series = Numbers arranged according to a pattern.
+
+EXAMPLE
+
+2, 5, 8, 11, ?
+
+Pattern = +3
+
+Answer = 14
+
+
+COMMON PATTERNS
+
++ Addition
+- Subtraction
+× Multiplication
+÷ Division
+Increasing difference
+Squares
+Cubes
+Alternating pattern
+
+
+EXAMPLE
+
+2, 5, 9, 14, 20, ?
+
+Differences:
++3, +4, +5, +6
+
+Next = +7
+
+Answer = 27
+
+
+ALPHABET SERIES
+
+Alphabet Series = Letters arranged according to a pattern.
+
+ALPHABET POSITIONS
+
+A=1  B=2  C=3  D=4  E=5
+F=6  G=7  H=8  I=9  J=10
+K=11 L=12 M=13 N=14 O=15
+P=16 Q=17 R=18 S=19 T=20
+U=21 V=22 W=23 X=24 Y=25 Z=26
+
+
+EXAMPLE
+
+A, C, E, G, ?
+
+Pattern = +2
+
+Answer = I
+
+
+REVERSE ALPHABET
+
+A ↔ Z
+B ↔ Y
+C ↔ X
+D ↔ W
+E ↔ V
+
+
+QUICK METHOD
+
+1. Check + / -
+2. Check × / ÷
+3. Check differences.
+4. Check squares / cubes.
+5. Check alternating pattern.
+6. For letters, convert to positions.
+
+
+IMPORTANT
+
+If the simple pattern doesn't work,
+check differences or alternating positions.

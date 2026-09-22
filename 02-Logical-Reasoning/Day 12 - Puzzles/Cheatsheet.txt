@@ -1,0 +1,46 @@
+DAY 12 — PUZZLES
+
+PUZZLES
+
+Puzzle = A set of clues used to determine relationships, positions or arrangements.
+
+
+COMMON TYPES
+
+- Floor puzzle
+- Box puzzle
+- Person arrangement
+- Age puzzle
+- Scheduling puzzle
+- Distribution puzzle
+- Ranking puzzle
+
+
+EXAMPLE
+
+A lives above B.
+C lives below B.
+
+Order:
+
+A
+B
+C
+
+
+QUICK METHOD
+
+1. Read all clues.
+2. Identify fixed information.
+3. Make a table/diagram.
+4. Place definite information first.
+5. Use remaining clues.
+6. Verify every condition.
+
+
+IMPORTANT
+
+Use elimination when possible.
+
+Do not solve everything mentally.
+Use tables and diagrams.

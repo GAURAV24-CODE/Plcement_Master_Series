@@ -1,0 +1,60 @@
+DAY 11 — SEATING ARRANGEMENT
+
+SEATING ARRANGEMENT
+
+Seating Arrangement = Finding the positions of people according to given conditions.
+
+
+TYPES
+
+- Linear arrangement
+- Circular arrangement
+- Facing North/South
+- Facing Center/Outside
+
+
+LINEAR
+
+A B C D E
+
+If A is left of B:
+A ← B
+
+
+CIRCULAR
+
+People sit around a circle.
+
+Facing Center:
+Left = Clockwise
+Right = Anti-clockwise
+
+
+IMPORTANT RULE
+
+For circular arrangement:
+Always identify the facing direction first.
+
+
+QUICK METHOD
+
+1. Draw the seats.
+2. Place fixed positions first.
+3. Place definite relationships.
+4. Use remaining clues.
+5. Check all conditions.
+
+
+COMMON WORDS
+
+Immediate left = Next position
+Immediate right = Next position
+Between = In the middle
+Adjacent = Next to
+Opposite = Directly across
+
+
+IMPORTANT
+
+Do not try to remember the whole arrangement mentally.
+Draw it.

@@ -1,0 +1,128 @@
+DAY 03 — REMAINDERS → UNIT DIGIT → CYCLICITY → POWERS
+
+REMAINDERS
+
+Remainder = The value left after division.
+
+DIVISION RULE
+
+Dividend = Divisor × Quotient + Remainder
+
+Example:
+
+17 ÷ 5
+
+5 × 3 = 15
+Remainder = 2
+
+IMPORTANT
+
+Remainder is always smaller than the divisor.
+
+0 ≤ Remainder < Divisor
+
+REMAINDER OF ADDITION
+
+If:
+
+A leaves remainder R₁
+B leaves remainder R₂
+
+Then:
+
+(A + B) remainder
+= (R₁ + R₂) remainder
+
+EXAMPLE
+
+17 ÷ 5 → Remainder 2
+13 ÷ 5 → Remainder 3
+
+17 + 13 = 30
+
+30 ÷ 5 → Remainder = 0
+
+UNIT DIGIT
+
+Unit Digit = Last digit of a number.
+
+Example:
+
+347 → Unit digit = 7
+
+IMPORTANT
+
+For multiplication/powers,
+focus only on the last digit.
+
+EXAMPLE
+
+23 × 47
+
+Unit digits:
+3 × 7 = 21
+
+Unit digit = 1
+
+CYCLICITY
+
+Cyclicity = Repeating pattern of unit digits in powers.
+
+IMPORTANT CYCLES
+
+2 → 2, 4, 8, 6
+3 → 3, 9, 7, 1
+4 → 4, 6
+7 → 7, 9, 3, 1
+8 → 8, 4, 2, 6
+9 → 9, 1
+
+EXAMPLE
+
+2⁵
+
+Cycle of 2:
+2, 4, 8, 6
+
+5 ÷ 4 → Remainder 1
+
+Answer = 2
+
+POWERS
+
+Power = Repeated multiplication.
+
+Example:
+
+2³ = 2 × 2 × 2 = 8
+
+LAST DIGIT OF POWER
+
+Use the cyclicity pattern.
+
+Example:
+
+3⁷
+
+Cycle:
+3, 9, 7, 1
+
+7 ÷ 4 → Remainder 3
+
+Answer = 7
+
+QUICK METHOD
+
+1. For remainder → use division.
+2. For unit digit → take last digit.
+3. For large powers → find the cycle.
+4. Divide exponent by cycle length.
+5. Use the remainder to select the digit.
+
+IMPORTANT
+
+If exponent ÷ cycle length gives:
+
+Remainder 0 → Use the last value of the cycle.
+
+Otherwise → Use the value at the remainder position.

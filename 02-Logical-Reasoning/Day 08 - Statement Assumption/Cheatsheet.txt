@@ -1,0 +1,37 @@
+DAY 08 — STATEMENT & ASSUMPTION
+
+ASSUMPTION
+
+Assumption = An unstated idea that must be accepted for the statement to make sense.
+
+
+EXAMPLE
+
+Statement:
+"Buy this phone because it has a long battery life."
+
+Assumption:
+People want phones with long battery life.
+
+Answer = Valid assumption
+
+
+HOW TO IDENTIFY
+
+Ask:
+
+"Is this idea necessary for the statement?"
+
+
+QUICK METHOD
+
+1. Read the statement.
+2. Read the assumption.
+3. Check whether the statement depends on it.
+4. If necessary = Assumption is implicit.
+
+
+IMPORTANT
+
+Assumption is NOT directly stated.
+It is an idea behind the statement.

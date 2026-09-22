@@ -1,0 +1,96 @@
+DAY 03 — CODING-DECODING
+
+CODING-DECODING
+
+A word, letter or number is changed according to a specific rule.
+
+
+TYPE 1 — LETTER SHIFT
+
+Example:
+CAT → DBU
+
+C → D = +1
+A → B = +1
+T → U = +1
+
+Therefore:
+DOG → EPH
+
+
+TYPE 2 — REVERSE ALPHABET
+
+A ↔ Z
+B ↔ Y
+C ↔ X
+D ↔ W
+E ↔ V
+
+Example:
+CAT
+
+C → X
+A → Z
+T → G
+
+CAT → XZG
+
+
+TYPE 3 — NUMBER CODING
+
+A=1, B=2, C=3, ... Z=26
+
+Example:
+CAT
+
+C=3
+A=1
+T=20
+
+CAT = 3 + 1 + 20 = 24
+
+
+TYPE 4 — WORD CODING
+
+"red apple" = "ka pa"
+"apple juice" = "pa lo"
+
+Common word = apple
+Common code = pa
+
+
+TYPE 5 — POSITION CODING
+
+DOG
+
+D=4
+O=15
+G=7
+
+DOG = 4, 15, 7
+
+
+CODING CHECK
+
+1. +1 / -1
+2. +2 / -2
+3. Reverse alphabet
+4. Alphabet positions
+5. Word-code matching
+6. Reversal
+7. Alternating pattern
+
+
+QUICK METHOD
+
+1. Compare original and coded values.
+2. Find the exact pattern.
+3. Check every letter.
+4. Apply the same rule.
+5. Verify the complete word.
+
+
+IMPORTANT
+
+Do not assume +1 immediately.
+Check the complete pattern first.
