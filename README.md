@@ -17,7 +17,7 @@ ability, Python programming, and core computer science.*
 
 ---
 
-## 📌 About the Project
+## 📌 About the Projec
 
 **Placement Master Series** is a structured placement preparation
 repository designed to help students strengthen their fundamentals,
