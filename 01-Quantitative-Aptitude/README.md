@@ -16,7 +16,7 @@
 
 ## 📌 About This Section
 
-Welcome to the **Quantitative Aptitude** section of my Placement
+Welcome to the **Quantitative Aptitude** section of my Placemen
 Master Series.
 
 This section focuses on developing mathematical problem-solving
