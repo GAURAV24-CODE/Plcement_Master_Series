@@ -30,7 +30,7 @@ questions.
 The goal is to understand the logic behind every question and
 develop the ability to solve problems accurately under time limits.
 
-## 🎯 Learning Objectives
+## 🎯 Learning Obje
 
 - Strengthen fundamental mathematical concepts.
 - Master important formulas and calculation techniques.
