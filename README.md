@@ -53,7 +53,7 @@ approach to learning and continuous improvement.
 |:---:|---|---|
 | 01 | Quantitative Aptitude | Number System, Percentages, Ratios, Profit & Loss, Time & Work, Speed & Distance |
 | 02 | Logical Reasoning | Series, Coding-Decoding, Blood Relations, Directions, Seating Arrangements, Logical Deductions |
-| 03 | Verbal Ability | Grammar, Vocabulary, Sentence Correction, Reading Comprehension |
+| 03 | Verbal Ability |  Sentence Correction, Reading Comprehension |
 | 04 | Python Coding | Python Fundamentals, Data Structures, Problem-Solving, Coding Questions |
 | 05 | Technical CS | DBMS, Operating Systems, Computer Networks, OOP, and other core concepts |
 
