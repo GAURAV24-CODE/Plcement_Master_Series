@@ -4,7 +4,7 @@
 
 ### Placement Master Series | Subject 02
 
-**Think Logically • Identify Patterns • Solve Smartly**
+**Think Logically • Identify Patterns • Solve Smartlyyy**
 
 ![Logical Reasoning](https://img.shields.io/badge/Subject-Logical%20Reasoning-8B5CF6?style=for-the-badge)
 ![Placement Prep](https://img.shields.io/badge/Focus-Campus%20Placements-blue?style=for-the-badge)
